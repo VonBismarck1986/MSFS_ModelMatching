@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModelMatchRuleSet>
     <ModelMatchRule CallsignPrefix="AAL" TypeCode="A320" ModelName="Airbus A320 Neo American" />
+    <ModelMatchRule CallsignPrefix="AAY" TypeCode="A320" ModelName="Airbus A320 Neo ALLEGIANT" />
     <ModelMatchRule CallsignPrefix="AEE" TypeCode="A320" ModelName="Airbus A320 Neo Aegean Airlines" />
     <ModelMatchRule CallsignPrefix="AFL" TypeCode="A320" ModelName="Airbus A320 Neo Aeroflot" />
     <ModelMatchRule CallsignPrefix="AFR" TypeCode="A320" ModelName="Airbus A320 Neo Air France" />
-    <ModelMatchRule CallsignPrefix="AXM" TypeCode="A320" ModelName="Airbus A320 Neo AirAsia" />
-    <ModelMatchRule CallsignPrefix="KOR" TypeCode="A320" ModelName="Airbus A320 Neo AirKoryo" />
-    <ModelMatchRule CallsignPrefix="AAY" TypeCode="A320" ModelName="Airbus A320 Neo ALLEGIANT" />
     <ModelMatchRule CallsignPrefix="ANA" TypeCode="A320" ModelName="Airbus A320 Neo Japan Airlines" />
     <ModelMatchRule CallsignPrefix="ANZ" TypeCode="A320" ModelName="Airbus A320 Neo Air New Zealand Black Livery" />
-    <ModelMatchRule CallsignPrefix="CSN" TypeCode="A320" ModelName="Airbus A320 Neo China Southern Airlines" />
+    <ModelMatchRule CallsignPrefix="ASA" TypeCode="A320" ModelName="Airbus A320 Neo Alaska Airlines" />
+    <ModelMatchRule CallsignPrefix="AXM" TypeCode="A320" ModelName="Airbus A320 Neo AirAsia" />
+    <ModelMatchRule CallsignPrefix="BAW" TypeCode="A320" ModelName="Airbus A320 Neo British Airways" />
     <ModelMatchRule CallsignPrefix="CAI" TypeCode="A320" ModelName="Airbus A320 Neo Corendon" />
     <ModelMatchRule CallsignPrefix="CFB" TypeCode="A320" ModelName="Airbus A320 Neo Cathay Dragon" />
+    <ModelMatchRule CallsignPrefix="CSN" TypeCode="A320" ModelName="Airbus A320 Neo China Southern Airlines" />
+    <ModelMatchRule CallsignPrefix="DAL" TypeCode="A320" ModelName="Airbus A320 Neo Delta" />
+    <ModelMatchRule CallsignPrefix="DHL" TypeCode="A320" ModelName="Airbus A320 Neo DHL" />
+    <ModelMatchRule CallsignPrefix="DLH" TypeCode="A320" ModelName="Airbus A320 Neo Lufthansa" />
+    <ModelMatchRule CallsignPrefix="EZY" TypeCode="A320" ModelName="Airbus A320 Neo EasyJet NEO" />
+    <ModelMatchRule CallsignPrefix="FFT" TypeCode="A320" ModelName="Airbus A320 Neo FRONTIER" />
     <ModelMatchRule CallsignPrefix="GOW" TypeCode="A320" ModelName="Airbus A320 Neo GoAir" />
     <ModelMatchRule CallsignPrefix="ICE" TypeCode="A320" ModelName="Airbus A320 Neo Iceland Air" />
     <ModelMatchRule CallsignPrefix="IRA" TypeCode="A320" ModelName="Airbus A320 Neo IranAir" />
-    <ModelMatchRule CallsignPrefix="VLU" TypeCode="A320" ModelName="Airbus A320 Neo JetStar V2" />
-    <ModelMatchRule CallsignPrefix="DAL" TypeCode="A320" ModelName="Airbus A320 Neo Delta" />
-    <ModelMatchRule CallsignPrefix="ROU" TypeCode="A320" ModelName="Airbus A320 Neo Air Canada" />
     <ModelMatchRule CallsignPrefix="JBU" TypeCode="A320" ModelName="Airbus A320 Neo JetBlue" />
-    <ModelMatchRule CallsignPrefix="UAL" TypeCode="A320" ModelName="Airbus A320 Neo United Airlines Battleship" />
-    <ModelMatchRule CallsignPrefix="EZY" TypeCode="A320" ModelName="Airbus A320 Neo EasyJet NEO" />
-    <ModelMatchRule CallsignPrefix="PAA" TypeCode="A320" ModelName="Airbus A320 Neo Pan Am" />
-    <ModelMatchRule CallsignPrefix="NKS" TypeCode="A320" ModelName="Airbus A320 Neo Spirit 2" />
-    <ModelMatchRule CallsignPrefix="DLH" TypeCode="A320" ModelName="Airbus A320 Neo Lufthansa" />
-    <ModelMatchRule CallsignPrefix="LAN" TypeCode="A320" ModelName="Airbus A320 Neo LATAM" />
-    <ModelMatchRule CallsignPrefix="PAL" TypeCode="A320" ModelName="Airbus A320 Neo Philippine Airlines" />
-    <ModelMatchRule CallsignPrefix="BAW" TypeCode="A320" ModelName="Airbus A320 Neo British Airways" />
-    <ModelMatchRule CallsignPrefix="SHT" TypeCode="A320" ModelName="Airbus A320 Neo British Airways" />
     <ModelMatchRule CallsignPrefix="KLM" TypeCode="A320" ModelName="Airbus A320 Neo KLM" />
-    <ModelMatchRule CallsignPrefix="ASA" TypeCode="A320" ModelName="Airbus A320 Neo Alaska Airlines" />
+    <ModelMatchRule CallsignPrefix="KOR" TypeCode="A320" ModelName="Airbus A320 Neo AirKoryo" />
+    <ModelMatchRule CallsignPrefix="LAN" TypeCode="A320" ModelName="Airbus A320 Neo LATAM" />
+    <ModelMatchRule CallsignPrefix="NKS" TypeCode="A320" ModelName="Airbus A320 Neo Spirit 2" />
+    <ModelMatchRule CallsignPrefix="PAA" TypeCode="A320" ModelName="Airbus A320 Neo Pan Am" />
+    <ModelMatchRule CallsignPrefix="PAL" TypeCode="A320" ModelName="Airbus A320 Neo Philippine Airlines" />
+    <ModelMatchRule CallsignPrefix="ROU" TypeCode="A320" ModelName="Airbus A320 Neo Air Canada" />
+    <ModelMatchRule CallsignPrefix="SHT" TypeCode="A320" ModelName="Airbus A320 Neo British Airways" />
+    <ModelMatchRule CallsignPrefix="UAL" TypeCode="A320" ModelName="Airbus A320 Neo United Airlines Battleship" />
+    <ModelMatchRule CallsignPrefix="VLU" TypeCode="A320" ModelName="Airbus A320 Neo JetStar V2" />
     <ModelMatchRule CallsignPrefix="VRD" TypeCode="A320" ModelName="Airbus A320 Neo Virgin America" />
-    <ModelMatchRule CallsignPrefix="DHL" TypeCode="A320" ModelName="Airbus A320 Neo DHL" />
-	<ModelMatchRule CallsignPrefix="FFT" TypeCode="A320" ModelName="Airbus A320 Neo FRONTIER" />
 </ModelMatchRuleSet>
