@@ -8,3 +8,6 @@ Model matching for VATSIM.
 - Open up vPilot and open Settings.
 - Navigate to Model Matching > Custom Rules > Add Custom Rule Set(s)... > Open VMR file.
 - Done.
+
+# Extra Info
+- Works with Mega Livery Pack
