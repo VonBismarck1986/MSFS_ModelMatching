@@ -1,13 +1,13 @@
 # MSFS ModelMatching
 
-Model matching for VATSIM and IVAO
+Model matching for VATSIM
 
 # Installation
 
 - Simply download the VMR from the repository.
 - Open up vPilot and open Settings.
 - Navigate to Model Matching > Custom Rules > Add Custom Rule Set(s)... > Open VMR file.
-- ( IF USING IVAO ) : Once installed drag the ivao_x-csl file to your community folder, make sure you allow it to to overwrite.
+- Once installed drag the ivao_x-csl file to your community folder, make sure you allow it to to overwrite.
 - Done.
 
 # Extra Info
