@@ -1,6 +1,6 @@
 # MSFS ModelMatching
 
-Model matching for VATSIM.
+Model matching for VATSIM and IVAO
 
 # Installation
 
